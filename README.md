@@ -4,7 +4,7 @@
  
 已按ANC官方《Plan de comptes PCG 2025》逐一核对，标注了2025年改革变动的科目。
  
-👉 **[点击查看在线版](https://yuanyuan-cyber2026.github.io/dcg-notes/DCG_UE10_comptes_frequents.html)**
+👉 **[点击查看在线版](https://yuanyuan-cyber2026.github.io/dcg-notes/)**
  
 ## 主要内容
  
